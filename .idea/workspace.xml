@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cad131c-f19a-42d5-a693-c08586a014d8" name="Default" comment="" />
+    <list default="true" id="1cad131c-f19a-42d5-a693-c08586a014d8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ćwiecznia/cw34.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ćwiecznia/sequences.py" afterPath="$PROJECT_DIR$/ćwiecznia/sequences.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,76 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="p22.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/p22.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p23.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/p23.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstCommands.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstCommands.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cw26.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw26.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cw27.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw27.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cw31.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw31.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cw32.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw32.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cw33.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ćwiecznia/cw33.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,21 +25,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sequences.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sequences.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ćwiecznia/sequences.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="203">
+              <caret line="183" column="62" lean-forward="false" selection-start-line="183" selection-start-column="62" selection-end-line="183" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p24.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ćwiecznia/p24.py">
+      <file leaf-file-name="INSTRYKCJE_WARUNKOWE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/INSTRYKCJE_WARUNKOWE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cwp46.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cwp46.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cw49.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw49.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PĘTLE.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/PĘTLE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cw42.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw42.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cw39.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw39.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cw40.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw40.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cw41.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ćwiecznia/cw41.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -125,6 +129,9 @@
       <find>productName</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -140,7 +147,6 @@
         <option value="$PROJECT_DIR$/ćwiecznia/p21.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/cw22.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/p22.py" />
-        <option value="$PROJECT_DIR$/ćwiecznia/p23.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/p24.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/cw25.py" />
         <option value="$PROJECT_DIR$/FirstCommands.py" />
@@ -149,16 +155,29 @@
         <option value="$PROJECT_DIR$/ćwiecznia/cw31.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/cw32.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/cw33.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/p23.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw34.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw36.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw 38.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw39.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw40.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw41.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw42.py" />
         <option value="$PROJECT_DIR$/ćwiecznia/sequences.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/INSTRYKCJE_WARUNKOWE.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cwp46.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/cw49.py" />
+        <option value="$PROJECT_DIR$/ćwiecznia/PĘTLE.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -195,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sequences">
-    <configuration name="cw27" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PĘTLE">
+    <configuration name="INSTRYKCJE_WARUNKOWE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -222,13 +241,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="karolpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/INSTRYKCJE_WARUNKOWE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cw31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PĘTLE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,13 +259,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="karolpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/PĘTLE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cw32" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cw42" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -258,13 +277,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="karolpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw32.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw42.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cw33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cw49" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -276,13 +295,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="karolpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cw49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cwp46" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -294,26 +313,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="karolpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/sequences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ćwiecznia/cwp46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cw27" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cw31" />
-      <item index="2" class="java.lang.String" itemvalue="Python.cw32" />
-      <item index="3" class="java.lang.String" itemvalue="Python.cw33" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sequences" />
+      <item index="0" class="java.lang.String" itemvalue="Python.cw42" />
+      <item index="1" class="java.lang.String" itemvalue="Python.INSTRYKCJE_WARUNKOWE" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cwp46" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cw49" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PĘTLE" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sequences" />
-        <item index="1" class="java.lang.String" itemvalue="Python.cw33" />
-        <item index="2" class="java.lang.String" itemvalue="Python.cw32" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cw31" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cw27" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PĘTLE" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cw49" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cwp46" />
+        <item index="3" class="java.lang.String" itemvalue="Python.INSTRYKCJE_WARUNKOWE" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cw42" />
       </list>
     </recent_temporary>
   </component>
@@ -334,12 +353,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.144375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.144375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33114323" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -359,7 +379,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ćwiecznia/cw42.py</url>
+          <line>4</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -467,14 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ćwiecznia/p23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstCommands.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -531,6 +551,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/p23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw 38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="83" lean-forward="false" selection-start-line="1" selection-start-column="83" selection-end-line="1" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw41.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ćwiecznia/cw33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -539,10 +599,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw42.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ćwiecznia/sequences.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="183" column="62" lean-forward="false" selection-start-line="183" selection-start-column="62" selection-end-line="183" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cwp46.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/INSTRYKCJE_WARUNKOWE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/cw49.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ćwiecznia/PĘTLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
