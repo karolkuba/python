@@ -95,4 +95,7 @@ lvlsNames = {lvls[0]: "basic",
 for key in lvlsNames.keys():
     print(key, lvlsNames[key])
 
+a = range(10)
+for i in a:
+    print(i)
 
